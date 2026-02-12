@@ -1,1 +1,1 @@
-jwt_secret = "[KEY GOES HERE]"
+jwt_secret = "sdf9u2342323423423b23hiuhsiuiusweir23423"
