@@ -1,1 +1,1 @@
-jwt_secret = "[KEY GOES HERE]"
+jwt_secret = "***REMOVED***"
