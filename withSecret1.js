@@ -1,1 +1,1 @@
-let newSecret = "23sdfstsdfsdfsd";
+let newSecret = "<Removed secret1>";

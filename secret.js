@@ -1,1 +1,1 @@
-jwt_secret = "sdf9u2342323423423b23hiuhsiuiusweir23423"
+jwt_secret = "<Removed jwt secret>"
