@@ -1,1 +1,1 @@
-jwt_secret = "***REMOVED***"
+jwt_secret = "<Removed jwt secret>"
